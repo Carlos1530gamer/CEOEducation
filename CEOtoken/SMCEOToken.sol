@@ -7,7 +7,7 @@ pragma solidity ^0.4.18;
 // Symbol      : CEO
 // Name        : CEO TOKEN
 // Total supply: 100000000
-// Decimals    : 18
+// Decimals    : 10
 //
 // Enjoy.
 //
