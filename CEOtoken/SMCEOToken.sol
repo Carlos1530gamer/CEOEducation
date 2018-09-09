@@ -116,7 +116,7 @@ contract CEOTOKEN is ERC20Interface, Owned, SafeMath {
         symbol = "CEO";
         name = "CEO TOKEN";
         decimals = 18;
-        _totalSupply = 100000000000000000000000000;
+        _totalSupply = 100000000;
         balances[0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222] = _totalSupply;
         Transfer(address(0), 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222, _totalSupply);
     }
